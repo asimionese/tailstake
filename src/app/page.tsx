@@ -389,6 +389,11 @@ function HomePageInner() {
               for everything, the other disappears. Lawyers get involved. Months of stress, thousands in fees.
               This is how most handshake deals end.
             </p>
+            <p className="text-gray-500 max-w-2xl mx-auto leading-relaxed mt-6">
+              The big boys have management companies for their Gulfstreams. Owner-flown aircraft
+              and light GA? Nothing. TailStake is the modern interface to manage the financial
+              and legal side of your bird.
+            </p>
           </div>
         </div>
       </section>
